@@ -9,7 +9,7 @@
   "dependencies": {
     "express": "^5.0.0-alpha.2",
     "mongodb": "^3.6.1",
-    "mongoose": "^4.5.7",
+    "mongoose": ">=5.7.5,
     "cors": "^2.8.1",
     "body-parser": "^1.18.3",
     "dns": "^0.2.2",
